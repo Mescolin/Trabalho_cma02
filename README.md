@@ -1,5 +1,5 @@
 # Trabalho_cma02
-Repositório de um hotel. Sistemas de buscas de hotel.
+Repositório de um hotel. Sistemas de buscas de hotel, tal como o Trivago.
 |Nome do campo|tipo|descrição|
 |-------------|----|---------|
 |cidade_de_destino|cadeia de caracteres|Cidade onde o hotel se encontra|
